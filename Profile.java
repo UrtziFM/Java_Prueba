@@ -1,5 +1,5 @@
 public class Profile {
-    private String employeeName;
+    protected String employeeName;
     public int employeeAge;
     public String employeeCity;
 

@@ -7,7 +7,7 @@ public class Company {
         profile2.getProfile();
         do {
             System.out.println("Hello World");
-        } while(profile1.employeeAge == 39);
+        } while(profile1.employeeName == "Maider");
     }
     
 }
